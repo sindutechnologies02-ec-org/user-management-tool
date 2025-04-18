@@ -1,0 +1,13 @@
+Fri Apr 18 15:07:24 UTC 2025 - Starting user cleanup process
+Fri Apr 18 15:07:24 UTC 2025 - Deleting inactive user: systemd-network
+Fri Apr 18 15:07:24 UTC 2025 - Deleting inactive user: systemd-oom
+Fri Apr 18 15:07:24 UTC 2025 - Deleting inactive user: systemd-resolve
+Fri Apr 18 15:07:24 UTC 2025 - Deleting inactive user: libstoragemgmt
+Fri Apr 18 15:07:24 UTC 2025 - Deleting inactive user: systemd-coredump
+Fri Apr 18 15:07:24 UTC 2025 - Deleting inactive user: systemd-timesync
+Fri Apr 18 15:07:24 UTC 2025 - Cleanup process completed
+Fri Apr 18 15:09:30 UTC 2025 - Starting user cleanup process
+Fri Apr 18 15:09:30 UTC 2025 - Skipping system user: systemd-network
+Fri Apr 18 15:09:30 UTC 2025 - Skipping system user: systemd-resolve
+Fri Apr 18 15:09:30 UTC 2025 - Skipping system user: libstoragemgmt
+Fri Apr 18 15:09:30 UTC 2025 - Cleanup process completed
